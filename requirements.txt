@@ -1,0 +1,10 @@
+fastapi==0.115.*
+#protobuf==4.22.3
+pydantic==2.*
+starlette==0.46.*
+pydantic[email]
+uvicorn==0.34.*
+#urllib3==1.26.13
+python-jose==3.3.0
+passlib==1.7.4
+python-multipart
